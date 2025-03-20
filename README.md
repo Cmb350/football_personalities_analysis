@@ -1,6 +1,7 @@
 # Football personalities analysis
 
-Introduction
+# Introduction
+
 As football fans, we often form specific images of how players behave based on their performance on the field. While each position has certain responsibilities and expectations, not all personalities are equally equipped to handle these demands.
 
 This brings up an interesting question about the different personalities: Is there a personality standard for each position? Can coaches determine a potential player's position simply by meeting and conversing with them? Are these characteristics truly important?
@@ -17,7 +18,7 @@ Extraversion: Represents positive emotions and a tendency to seek stimulation in
 Agreeableness: Suggests a tendency to be social and cooperative, with values that include friendly/compassionate and critical/moralistic.
 Neuroticism: Denotes vulnerability to unpleasant emotions such as anxiety, anger, and hostility, with values ranging from sensitive/nervous to resilienThrough this evaluation, we aim to explore the connection between personality traits and soccer positions, opening up a discussion about how these characteristics impact performance on the field in football.
 
-Objectives
+# Objectives
 1. Create a preliminary standard for each personality required for each position in football.
 
 2. Open the opportunity for a larger project, involving large amounts of data to utilize more analytical tools.
